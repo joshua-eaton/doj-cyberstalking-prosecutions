@@ -1,6 +1,6 @@
 # doj-cyberstalking-prosecutions
 
-This repository contains data on federal prosecutions under [18 USC 2261a(2)](https://www.law.cornell.edu/uscode/text/18/2261A) (the federal cyberstalking statute) and [18 USC 875(c)](https://www.law.cornell.edu/uscode/text/18/875) (the federal online harassment statute) for FY 2012 – FY 2017. The Executive Office for Unites States Attorneys, a unit of the Department of Justice, provided this data to ThinkProgress in 2017 in response to two Freedom of Information Act requests. 
+This repository contains data on federal prosecutions under [18 USC 2261a(2)](https://www.law.cornell.edu/uscode/text/18/2261A) (the federal cyberstalking statute) and [18 USC 875(c)](https://www.law.cornell.edu/uscode/text/18/875) (the federal online threats statute) for FY 2012 – FY 2017. The Executive Office for Unites States Attorneys, a unit of the Department of Justice, provided this data to ThinkProgress in 2017 in response to two Freedom of Information Act requests. 
 
 The data comes from the United States Attorneys' Case Management System. The Department of Justice provided it in two PDF tables (see [here](https://www.documentcloud.org/documents/4047304-Eaton-Letter-1.html) and [here](https://www.documentcloud.org/documents/4049303-Eaton-Letter-2-2.html)). To get that data into a workable format, I took the following steps:
 * I manually recreated those two tables in separate sheets in a Google Sheets workbook,
